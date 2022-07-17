@@ -1,2 +1,2 @@
-limit.minimum=2
-limit.maximum=999
+limits.minimum=2
+limits.maximum=999
